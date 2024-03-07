@@ -17,7 +17,7 @@
 >每类规则提供了二个链接，一个需要代理才能访问，一个可以直接访问，请根据实际情况选择，只是jsdelivr会延迟12小时，但对于几万条的规则来说，没什么影响。
 
 - **刷新CND缓存**：
-- 
+  
 - https://cdn.jsdelivr.net/
 - 切换为
 - https://purge.jsdelivr.net/
