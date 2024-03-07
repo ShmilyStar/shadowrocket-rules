@@ -18,9 +18,7 @@
 
 - **刷新CND缓存**：
   
-- https://cdn.jsdelivr.net/
-- 切换为
-- https://purge.jsdelivr.net/
+- cdn.jsdelivr  切换为  purge.jsdelivr
 
 ## 帮助文档
 
